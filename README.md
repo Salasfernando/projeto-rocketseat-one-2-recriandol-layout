@@ -8,12 +8,9 @@ Nesse desafio, você deverá recriar uma aplicação, a partir de um layou
 
 O figma da aplicação está disponível no [**link**](https://www.figma.com/file/EdKjPWjC8ZlbnH4XzTObv2/Explorer/duplicate) abaixo:
 
-https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FEdKjPWjC8ZlbnH4XzTObv2%2FExplorer%3Fnode-id%3D16%253A106
+<img src="./img/explorer.png">
 
-<aside>
-⚠️ **Alerta**: Caso ao clicar no link você se depare com o erro que `WebGL` não está ativado no seu navegador, [siga esses passos](https://help.figma.com/hc/en-us/articles/360039828614#Enable_WebGL).
 
-</aside>
 
 ## Quais arquivos devo criar na minha aplicação?
 
